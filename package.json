@@ -1,0 +1,21 @@
+{
+  "name": "undoredo",
+  "description": "封装immerjs实现撤销重写功能",
+  "author": "https://github.com/wangguangyou",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangguangyou/undo-redo.git"
+  },
+  "keywords": [
+    "undo",
+    "redo",
+    "immer"
+  ],
+  "version": "1.0.0",
+  "main": "UndoRedo.js",
+  "module": "UndoRedo.js",
+  "dependencies": {
+    "immer": "^9.0.5"
+  }
+}
