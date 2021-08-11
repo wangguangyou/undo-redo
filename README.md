@@ -7,6 +7,8 @@
 ## 例子
 
 ```js
+import UndoRedo from 'immer-undoredo'
+
 let textState = { a: { x: [0] } }
 let undoRedo = new UndoRedo(textState)
 undoRedo.produce((draft) => {
