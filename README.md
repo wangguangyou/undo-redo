@@ -1,5 +1,11 @@
 # undo-redo
 
+## 安装
+
+`npm install immer-undoredo --save`
+
+## 例子
+
 ```js
 let textState = { a: { x: [0] } }
 let undoRedo = new UndoRedo(textState)

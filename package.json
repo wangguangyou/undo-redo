@@ -1,5 +1,5 @@
 {
-  "name": "undoredo",
+  "name": "immer-undoredo",
   "description": "封装immerjs实现撤销重写功能",
   "author": "https://github.com/wangguangyou",
   "license": "MIT",
